@@ -2,8 +2,5 @@
     "id": 1,
     "categoria": "hello",
     "descricao": "hello",
-    "valor": "1234.123,00",
-    "valorFinanciado": "70.000,00",
-    "valorRecursoProprio": "12.000,00",
-    "seguro": false
+   
 }
