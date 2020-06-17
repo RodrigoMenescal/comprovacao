@@ -1,17 +1,13 @@
 {
-    "contas": [
+    "comprovacao": [
       {
-        "holder_id": "00urnvcim4XBcSTRC0h7",
-        "holder_email": "atarg@foo.com",
-        "type": "Conta poupança",
-        "holder": "Aegon Targaryen",
-        "saldo": 32000,
-        "moeda": "EUR",
-        "icon": "",
-        "routing": "iban",
-        "iban": "CB015000001234561699",
-        "status": "ativo",
-        "aberto": "20180229"
+        "comprovacao_id": "00urnvcim4XBcSTRC0h7",
+        "categoria": "atarg@foo.com",
+        "descricao": "Conta poupança",
+        "valorBem": "Aegon Targaryen",
+        "valorFinanciado": 32000,
+        "valorRecursoProprio": "EUR",
+        "seguro": false
       }
     ]
   }
