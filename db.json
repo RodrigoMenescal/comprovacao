@@ -1,5 +1,17 @@
 {
-    "id": 1,
-    "categoria": "hello",
-    "descricao": "hello"
-}
+    "contas": [
+      {
+        "holder_id": "00urnvcim4XBcSTRC0h7",
+        "holder_email": "atarg@foo.com",
+        "type": "Conta poupança",
+        "holder": "Aegon Targaryen",
+        "saldo": 32000,
+        "moeda": "EUR",
+        "icon": "",
+        "routing": "iban",
+        "iban": "CB015000001234561699",
+        "status": "ativo",
+        "aberto": "20180229"
+      }
+    ]
+  }
