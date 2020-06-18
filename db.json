@@ -1,13 +1,43 @@
 {
-    "comprovacao": [
-      {
-        "comprovacao_id": "00urnvcim4XBcSTRC0h7",
-        "categoria": "atarg@foo.com",
-        "descricao": "Conta poupança",
-        "valorBem": "Aegon Targaryen",
-        "valorFinanciado": 32000,
-        "valorRecursoProprio": "EUR",
-        "seguro": false
-      }
-    ]
-  }
+  "idComprovacao": 0,
+  "nomeCliente": "string",
+  "cpfCnpjCliente": "string",
+  "numeroContrato": 0,
+  "dataContrato": "2020-06-18",
+  "valorContrato": 0,
+  "valorLiberar": 0,
+  "destinacoes": [
+    {
+      "idDestinacao": 0,
+      "sequencial": 0,
+      "valorDestinacao": 0,
+      "valorLiberar": 0,
+      "parcelas": [
+        {
+          "idParcela": 0,
+          "sequencial": 0,
+          "dataPrevisaoLiberacao": "2020-06-18",
+          "valorPrevisto": 0,
+          "valorLiberado": 0,
+          "valorLiberar": 0,
+          "status": "PENDENTE"
+        }
+      ]
+    }
+  ],
+  "orcamentos": [
+    {
+      "idOrcamento": 0,
+      "sequencial": 0,
+      "categoriaBem": {
+        "idCategoria": 0,
+        "descricao": "string"
+      },
+      "descricao": "string",
+      "quantidade": 0,
+      "valorFinanciado": 0,
+      "valorRecursoProprio": 0,
+      "valorTotal": 0
+    }
+  ]
+}
