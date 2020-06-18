@@ -1,5 +1,6 @@
 {
-  "idComprovacao": 0,
+  'comprovacao': {
+    "idComprovacao": 0,
   "nomeCliente": "string",
   "cpfCnpjCliente": "string",
   "numeroContrato": 0,
@@ -40,4 +41,5 @@
       "valorTotal": 0
     }
   ]
+  }
 }
